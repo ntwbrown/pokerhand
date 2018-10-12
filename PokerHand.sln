@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerHand", "PokerHand\PokerHand.csproj", "{9F31399D-387F-4DA4-86FF-5B2D35AAFAE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject", "..\XUnitTestProject\XUnitTestProject.csproj", "{0AFC730A-7FAC-43C1-A3F3-3C95C5CAD544}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9F31399D-387F-4DA4-86FF-5B2D35AAFAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F31399D-387F-4DA4-86FF-5B2D35AAFAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F31399D-387F-4DA4-86FF-5B2D35AAFAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AFC730A-7FAC-43C1-A3F3-3C95C5CAD544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFC730A-7FAC-43C1-A3F3-3C95C5CAD544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFC730A-7FAC-43C1-A3F3-3C95C5CAD544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFC730A-7FAC-43C1-A3F3-3C95C5CAD544}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+F:\Workspaces\PokerHand\PokerHand\bin\Debug\netcoreapp2.0\InputFile.txt
+F:\Workspaces\PokerHand\PokerHand\bin\Debug\netcoreapp2.0\PokerHand.deps.json
+F:\Workspaces\PokerHand\PokerHand\bin\Debug\netcoreapp2.0\PokerHand.runtimeconfig.json
+F:\Workspaces\PokerHand\PokerHand\bin\Debug\netcoreapp2.0\PokerHand.runtimeconfig.dev.json
+F:\Workspaces\PokerHand\PokerHand\bin\Debug\netcoreapp2.0\PokerHand.dll
+F:\Workspaces\PokerHand\PokerHand\bin\Debug\netcoreapp2.0\PokerHand.pdb
+F:\Workspaces\PokerHand\PokerHand\obj\Debug\netcoreapp2.0\PokerHand.csproj.CoreCompileInputs.cache
+F:\Workspaces\PokerHand\PokerHand\obj\Debug\netcoreapp2.0\PokerHand.AssemblyInfoInputs.cache
+F:\Workspaces\PokerHand\PokerHand\obj\Debug\netcoreapp2.0\PokerHand.AssemblyInfo.cs
+F:\Workspaces\PokerHand\PokerHand\obj\Debug\netcoreapp2.0\PokerHand.dll
+F:\Workspaces\PokerHand\PokerHand\obj\Debug\netcoreapp2.0\PokerHand.pdb
+F:\Workspaces\PokerHand\PokerHand\obj\Debug\netcoreapp2.0\PokerHand.csprojResolveAssemblyReference.cache
